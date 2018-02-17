@@ -268,8 +268,11 @@ nav {
 	color: #fff;
 	font-size: 10px;
 	line-height: 1.2em;
-	padding: 6px;
-	text-align: center;
+	padding-top: 7px;
+    padding-left: 7px;
+    padding-bottom: 0px;
+    padding-right: 7px;
+    text-align: center;
 }
 
 .menusocial {
@@ -604,7 +607,10 @@ nav {
 	color: #fff;
 	font-size: 10px;
 	line-height: 1.2em;
-	padding: 6px;
+	padding-top: 7px;
+    padding-left: 7px;
+    padding-bottom: 0px;
+    padding-right: 7px;
 	text-align: center;
 }
 
