@@ -1,0 +1,941 @@
+*{
+ margin: 0; 
+ padding:0; 
+ border:0;
+ } 
+
+ 
+/* DESKTOP */
+@media screen and (min-width: 1025px) { 
+#container {
+width: 100%;
+} 
+ 
+body {  
+	color:#333;
+	font-family: Verdana, sans-serif;
+	line-height: 1.5em;
+	background: url(torcida_gremio3.jpg) 0px 200px repeat;
+	font-size: 13px;
+	}  
+
+article {
+	width: 465px;
+	float: left;
+	margin-left: 20px;
+	margin-bottom: 20px;
+}
+
+.aregistration { 
+	border: 5px solid #000;
+	box-shadow: 0px 0px 20px #00adf1;	
+}
+
+.divpaypal {
+	border: 3px solid #000; 
+	height:140px; 
+	box-shadow: 0px 0px 20px #00adf1;
+	width:600px;
+	margin-left: 200px;
+}
+	
+	
+p {margin: auto;
+   padding: 10px 0px 40px 10px;
+   margin-left: 5px;
+}	
+
+object {
+	display: none;	
+}
+
+button.css3button {
+	font-family: 'Fjalla One', sans-serif;
+	font-size: 20px;
+	color: #000000;
+	padding: 8px 20px;
+	background: -moz-linear-gradient(
+		top,
+		#99d5f0 0%,
+		#ffffff 50%,
+		#ffffff 50%,
+		#fafafa 65%,
+		#46d8f2);
+	background: -webkit-gradient(
+		linear, left top, left bottom,
+		from(#99d5f0),
+		color-stop(0.50, #ffffff),
+		color-stop(0.50, #ffffff),
+		color-stop(0.65, #fafafa),
+		to(#46d8f2));
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	border: 1px solid #000000;
+	-moz-box-shadow:
+		0px 1px 3px rgba(000,000,000,0.5),
+		inset 0px 0px 5px rgba(0,0,0,0.6);
+	-webkit-box-shadow:
+		0px 1px 3px rgba(000,000,000,0.5),
+		inset 0px 0px 5px rgba(0,0,0,0.6);
+	box-shadow:
+		0px 1px 3px rgba(000,000,000,0.5),
+		inset 0px 0px 5px rgba(0,0,0,0.6);
+	text-shadow:
+		0px -1px 3px rgba(255,255,255,0.8),
+		0px 1px 0px rgba(255,255,255,0.3);
+		margin-top: 15px;
+		cursor: pointer;
+		position: relative;
+}
+
+button.css3button:active {
+	top:2px;
+}
+
+
+.animacao {
+	position: absolute;
+	top: 0px;
+	left: 606px;
+	height: 200px;
+	width: 575px;
+	background-color: #000;
+	-webkit-animation-name: example; /* Chrome, Safari, Opera*/ 
+    -webkit-animation-duration: 13s;  /* Chrome, Safari, Opera */
+    animation-name: example;
+    animation-duration: 13s;
+	-webkit-animation-iteration-count: infinite;
+	transition-delay: 10s;
+	}
+
+	.animacao2 {
+	-webkit-animation-name: example2; /* Chrome, Safari, Opera*/ 
+    -webkit-animation-duration: 13s;  /* Chrome, Safari, Opera */
+    animation-name: example2;
+    animation-duration: 6s;
+	-webkit-animation-iteration-count: infinite;
+	transition-delay: 6s;
+	}
+	
+.bannerOrlando {
+	border: 5px solid #000;
+	border-radius: 10px;
+	height: 129px;
+	width: 951px;
+	clear: both;
+	margin-bottom: 40px;
+	margin-left: 20px;
+	background: black;
+	}	
+	
+h1 {
+	font-family: Verdana, sans-serif;
+	font-size: 64px;
+	color: #fff;
+	text-shadow: 5px 5px #000;
+	z-index: 10000;
+}
+
+h2 {
+	font-family: Verdana, Arial, sans-serif;
+	font-size: 28px;
+	color: #00adf1;
+	padding: 31px;
+	text-align: center;
+	font-weight: bold;	
+	
+}
+
+h3 {
+	font-family: Verdana, Arial, sans-serif;
+	font-size: 16px;
+	color: #00adf1;	
+	margin-left: 5px;
+	padding-left: 10px;
+}
+
+h4 {
+	font-family: Verdana, Arial, sans-serif;
+	font-size: 16px;
+	color: #00adf1;	
+	margin-bottom: 5px;
+	text-align: center;
+}
+
+h5 {
+	font-family: Verdana, Arial, sans-serif;
+	font-size: 13px;
+	color: #00adf1;	
+}
+
+.titulo {
+	height: 79px;
+	width: 432px;
+	position: absolute;
+	top: 102px;
+	left: 294px;	
+}
+
+.imghome {
+	border: 4px solid #00adf1; 
+	margin: 30px 0px 45px 100px; 
+	box-shadow: 0px 0px 50px #00adf1;
+}
+
+header {
+	font-size: 1.2em;
+	width: 100%;
+	height: 200px;
+	background: #00adf1;
+	border-bottom: 5px solid #fff;
+	}
+	
+nav {
+	width: 100%;
+	height: 50px;
+	background: #000;
+	position: relative;
+	}
+	
+#logo {
+	width: 300px;
+	height: 160px;
+	position: absolute;
+	top: 33px;
+	left: -19px;
+}
+
+.tamanhologo {
+	width: 300px;
+	height: 160px;
+	float: left;
+	
+}
+
+.tamanhopicture {
+	width: 330px;
+	height: 220px;
+	
+}
+
+#logop1 {
+	width: 180px;
+	height: 60px;	
+	position: relative;
+	top: 34px;
+	left: 227px;
+
+}
+
+#logop2 {
+	width: 180px;
+	height: 60px;	
+	position: relative;
+	top: 34px;
+	left: 384px;
+
+}
+
+#logop3 {
+    width: 180px;
+    height: 81px;
+    position: relative;
+    top: 24px;
+    left: 70px;
+    float: left;
+
+}
+
+#tamlocation {
+	width: 370px;
+	height: 280px;
+	position: absolute;
+	top: 190px;
+	
+}
+
+.endereco {
+	width: 100%;
+	height: 24px;
+	position: relative;
+	top: 44px;
+}
+
+.pendereco {
+	margin:auto;
+	font-family: Arial, sans-serif;
+	color: #fff;
+	font-size: 10px;
+	line-height: 1.2em;
+	padding: 6px;
+	text-align: center;
+}
+
+.menusocial {
+	width: 120px;
+	height: 60px;
+	position: absolute;
+	top: -4px;
+	left: 463px;
+	background: rgba(255,255,255,0.0);
+}
+
+#facebook {
+	position:absolute;
+	left:0%;
+	top: 20%;	
+}
+
+#twitter {
+	position:absolute;
+	left:43%;
+	top: 20%;	
+}
+	
+nav ul li {
+	font-family: 'Fjalla One', sans-serif;
+	font-size: 16px;
+	float: left;
+	padding: 10px 50px 0px 60px;
+	color: #fff;
+	list-style:none;
+	line-height: 2.2em;
+
+}
+
+nav ul li a {
+	text-decoration: none;
+	color: #fff;
+	}
+	
+
+footer ul li {
+	list-style: none;
+	display: inline;
+}
+
+	
+section {
+	width: 100%;
+	background: #fff;
+	margin: auto;
+	border-width: 0px 5px 0px 5px;
+	border-style: solid;
+	border-color: #000;
+	box-shadow: 0px 17px 150px #00adf1;
+	overflow: auto;
+	}	
+	
+footer {
+	width: 100%;
+	height: 201px;
+	background: #000;
+	margin: auto;
+	clear: both;
+	}	
+ 
+.centrosp {
+	width: 1000px;
+	margin: auto;
+}
+ 
+ a {
+	 text-decoration: none;
+	 color: #00afd1;
+ }
+ 
+.centro {
+	width: 1000px;
+	padding: 10px;
+	margin: auto;
+}
+
+}
+
+/* TABLET */
+@media screen /*and (min-width: 641px)*/ and (max-width: 1024px) { 
+#container {
+width:100%; 
+min-width: 641px;
+} 
+ 
+body {  
+	color:#333;
+	font-family: Verdana, sans-serif;
+	line-height: 1.5em;
+	background-color: #000;
+	font-size: 13px
+	}  
+
+article {
+	width: 465px;
+	float: left;
+	margin-left: 20px;
+	margin-bottom: 20px;
+}
+
+.aregistration { 
+	border: 5px solid #000;
+	box-shadow: 0px 0px 20px #00adf1;	
+}
+
+.divpaypal {
+	border: 3px solid #000; 
+	height:140px; 
+	box-shadow: 0px 0px 20px #00adf1;
+	width:600px;
+	margin-left: 200px;
+}
+	
+p {margin: auto;
+   padding: 10px 0px 40px 10px;
+   margin-left: 5px;
+}	
+
+object {
+	display: none;	
+}
+
+button.css3button {
+	font-family: 'Fjalla One', sans-serif;
+	font-size: 20px;
+	color: #000000;
+	padding: 8px 20px;
+	background: -moz-linear-gradient(
+		top,
+		#99d5f0 0%,
+		#ffffff 50%,
+		#ffffff 50%,
+		#fafafa 65%,
+		#46d8f2);
+	background: -webkit-gradient(
+		linear, left top, left bottom,
+		from(#99d5f0),
+		color-stop(0.50, #ffffff),
+		color-stop(0.50, #ffffff),
+		color-stop(0.65, #fafafa),
+		to(#46d8f2));
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	border: 1px solid #000000;
+	-moz-box-shadow:
+		0px 1px 3px rgba(000,000,000,0.5),
+		inset 0px 0px 5px rgba(0,0,0,0.6);
+	-webkit-box-shadow:
+		0px 1px 3px rgba(000,000,000,0.5),
+		inset 0px 0px 5px rgba(0,0,0,0.6);
+	box-shadow:
+		0px 1px 3px rgba(000,000,000,0.5),
+		inset 0px 0px 5px rgba(0,0,0,0.6);
+	text-shadow:
+		0px -1px 3px rgba(255,255,255,0.8),
+		0px 1px 0px rgba(255,255,255,0.3);
+}
+
+
+.animacao {
+	position: absolute;
+	top: 0px;
+	left: 449px;
+	height: 200px;
+	width: 575px;
+	background-color: #000;
+	-webkit-animation-name: example; /* Chrome, Safari, Opera*/ 
+    -webkit-animation-duration: 13s;  /* Chrome, Safari, Opera */
+    animation-name: example;
+    animation-duration: 13s;
+	-webkit-animation-iteration-count: infinite;
+	transition-delay: 10s;
+	}
+	
+	.animacao2 {
+	-webkit-animation-name: example2; /* Chrome, Safari, Opera*/ 
+    -webkit-animation-duration: 13s;  /* Chrome, Safari, Opera */
+    animation-name: example2;
+    animation-duration: 6s;
+	-webkit-animation-iteration-count: infinite;
+	transition-delay: 6s;
+	}
+
+	.bannerOrlando {
+	border: 5px solid #000;
+	border-radius: 10px;
+	height: 129px;
+	width: 951px;
+	clear: both;
+	margin-bottom: 40px;
+	margin-left: 20px;
+	background: black;
+	}
+	
+h1 {
+	font-family: Verdana, sans-serif;
+	font-size: 64px;
+	color: #fff;
+	text-shadow: 5px 5px #000;
+	z-index: 10000;
+}
+
+h2 {
+	font-family: Verdana, Arial, sans-serif;
+	font-size: 28px;
+	color: #00adf1;
+	padding: 31px;
+	text-align: center;
+	font-weight: bold;	
+	
+}
+
+h3 {
+	font-family: Verdana, Arial, sans-serif;
+	font-size: 16px;
+	color: #00adf1;	
+	margin-left: 5px;
+	padding-left: 10px;
+}
+
+h4 {
+	font-family: Verdana, Arial, sans-serif;
+	font-size: 16px;
+	color: #00adf1;	
+	margin-bottom: 5px;
+	text-align: center;
+}
+
+.titulo {
+	height: 79px;
+	width: 432px;
+	position: absolute;
+	top: 102px;
+	left: 294px;	
+}
+
+.imghome {
+	border: 4px solid #00adf1; 
+	margin: 30px 0px 45px 100px; 
+	box-shadow: 0px 0px 50px #00adf1;
+}
+
+header {
+	font-size: 1.2em;
+	width: 1024px;
+	height: 200px;
+	background: #00adf1;
+	border-bottom: 5px solid #fff;
+	}
+	
+nav {
+	width: 1024px;
+	height: 50px;
+	background: #000;
+	position: relative;
+	}
+	
+#logo {
+	width: 300px;
+	height: 160px;
+	position: absolute;
+	top: 33px;
+	left: -19px;
+}
+
+.tamanhologo {
+	width: 300px;
+	height: 160px;
+	float: left;
+	
+}
+
+.tamanhopicture {
+	width: 330px;
+	height: 220px;
+	
+}
+
+#logop1 {
+	width: 180px;
+	height: 60px;	
+	position: relative;
+	top: 34px;
+	left: 227px;
+
+}
+
+#logop2 {
+	width: 180px;
+	height: 60px;	
+	position: relative;
+	top: 34px;
+	left: 384px;
+
+}
+
+#logop3 {
+    width: 180px;
+    height: 81px;
+    position: relative;
+    top: 24px;
+    left: 70px;
+    float: left;
+
+}
+
+#tamlocation {
+	width: 370px;
+	height: 280px;
+	position: absolute;
+	top: 190px;
+	
+}
+
+.endereco {
+	width: 100%;
+	height: 24px;
+	position: relative;
+	top: 44px;
+}
+
+.pendereco {
+	margin:auto;
+	font-family: Arial, sans-serif;
+	color: #fff;
+	font-size: 10px;
+	line-height: 1.2em;
+	padding: 6px;
+	text-align: center;
+}
+
+.menusocial {
+	width: 120px;
+	height: 60px;
+	position: absolute;
+	top: -4px;
+	left: 463px;
+	background: rgba(255,255,255,0.0);
+}
+
+#facebook {
+	position:absolute;
+	left:0%;
+	top: 20%;	
+}
+
+#twitter {
+	position:absolute;
+	left:43%;
+	top: 20%;	
+}
+	
+nav ul li {
+	font-family: 'Fjalla One', sans-serif;
+	font-size: 16px;
+	float: left;
+	padding: 10px 40px 0px 60px;
+	color: #fff;
+	list-style:none;
+	line-height: 2.2em;
+
+}
+
+nav ul li a {
+	text-decoration: none;
+	color: #fff;
+	}
+	
+
+footer ul li {
+	list-style: none;
+	display: inline;
+}
+
+	
+section {
+	width: 1024px;
+	background: #fff;
+	margin: auto;
+	overflow: auto;
+	}	
+	
+footer {
+	width: 1024px;
+	height: 201px;
+	background: #000;
+	margin: auto;
+	clear: both;
+	}	
+ 
+.centrosp {
+	width: 1024px;
+	margin: auto;
+}
+ 
+ a {
+	 text-decoration: none;
+	 color: #00afd1;
+ }
+ 
+.centro {
+	width: 1004px;
+	padding: 10px;
+	margin: auto;
+}
+
+}
+
+
+
+/* SMARTPHONE 
+@media screen and (max-width: 640px) { 
+#container {
+max-width: 640px; 
+min-width: 320px;
+} 
+ 
+body {  
+	color:#333;
+	font-family: Verdana, sans-serif;
+	line-height: 1.5em;
+	background-color: #000;
+	font-size: 14px
+	}  
+
+article {
+	width: 350px;
+	float: left;
+	margin-left: 150px;
+	margin-bottom: 5px;
+}
+	
+p {margin: auto;
+   padding: 10px 0px 40px 10px;
+   margin-left: 5px;
+}	
+
+object {
+	display: none;	
+}
+
+/* Desisti da animacao
+.animacao {
+	position: absolute;
+	top: 0px;
+	left: 65px;
+	height: 150px;
+	width: 575px;
+	background-color: #000;
+	-webkit-animation-name: example; /* Chrome, Safari, Opera 
+    -webkit-animation-duration: 13s;  /* Chrome, Safari, Opera 
+    animation-name: example;
+    animation-duration: 13s;
+	-webkit-animation-iteration-count: infinite;
+	transition-delay: 10s;
+	}
+
+h1 {
+	font-family: Verdana, sans-serif;
+	font-size: 60px;
+	color: #fff;
+	text-shadow: 5px 5px #000;
+	z-index: 10000;
+}
+
+h2 {
+	font-family: Verdana, Arial, sans-serif;
+	font-size: 28px;
+	color: #00adf1;
+	padding: 31px;
+	text-align: center;
+	font-weight: bold;	
+	
+}
+
+h3 {
+	font-family: Verdana, Arial, sans-serif;
+	font-size: 16px;
+	color: #00adf1;	
+	padding-left: 10px;
+	text-align: center;
+}
+
+h4 {
+	font-family: Verdana, Arial, sans-serif;
+	font-size: 16px;
+	color: #00adf1;	
+	margin-bottom: 5px;
+	text-align: center;
+}
+
+.titulo {
+	height: 79px;
+	width: 430px;
+	position: absolute;
+	top: 75px;
+	left: 205px;
+}
+
+.imghome {
+	border: 4px solid #00adf1; 
+	margin: 30px 20px 45px 20px; 
+	box-shadow: 0px 0px 50px #00adf1;
+	width: 500px;
+}
+
+header {
+	font-size: 1.2em;
+	width: 640px;
+	height: 150px;
+	background: #00adf1;
+	border-bottom: 3px solid #fff;
+	}
+	
+nav {
+	width: 640px;
+	height: 347px;
+	background: #000;
+	position: relative;
+	}
+	
+#logo {
+	width: 300px;
+	height: 160px;
+	position: absolute;
+	top: 24px;
+	left: -19px;
+}
+
+.tamanhologo {
+	width: 225px;
+	height: 122px;
+	float: left;
+	
+}
+
+.tamanhopicture {
+	width: 330px;
+	height: 220px;
+	
+}
+
+#logop1 {
+	width: 180px;
+	height: 60px;	
+	position: relative;
+	top: 34px;
+	left: 64px;
+
+}
+
+#logop2 {
+	width: 180px;
+	height: 60px;	
+	position: relative;
+	top: 34px;
+	left: 200px;
+
+}
+
+#tamlocation {
+	width: 370px;
+	height: 280px;
+	position: absolute;
+	top: 190px;
+	
+}
+
+.endereco {
+	width: 100%;
+	height: 24px;
+	position: relative;
+	top: 44px;
+}
+
+.pendereco {
+	margin:auto;
+	font-family: Arial, sans-serif;
+	color: #fff;
+	font-size: 10px;
+	line-height: 1.2em;
+	padding: 6px;
+	text-align: center;
+}
+
+.menusocial {
+	width: 120px;
+	height: 60px;
+	position: absolute;
+	top: -4px;
+	left: 363px;
+	background: rgba(255,255,255,0.0);
+}
+
+#facebook {
+	position:absolute;
+	left:0%;
+	top: 20%;	
+}
+
+#twitter {
+	position:absolute;
+	left:43%;
+	top: 20%;	
+}
+	
+nav ul li {
+	font-family: 'Fjalla One', sans-serif;
+	font-size: 16px;
+	padding: 10px 0px;
+	color: #fff;
+	list-style:none;
+	line-height: 2.2em;
+	display: block;
+	text-align: center;
+	border-bottom: 3px solid #fff;
+
+}
+
+nav ul li a {
+	text-decoration: none;
+	color: #fff;
+	}
+	
+
+footer ul li {
+	list-style: none;
+	display: inline;
+}
+
+	
+section {
+	width: 640px;
+	background: #fff;
+	margin: auto;
+	overflow: auto;
+	}	
+	
+footer {
+	width: 640px;
+	height: 201px;
+	background: #000;
+	margin: auto;
+	clear: both;
+	}	
+ 
+.centrosp {
+	width: 640px;
+	margin: auto;
+}
+ 
+ a {
+	 text-decoration: none;
+	 color: #00afd1;
+ }
+ 
+.centro {
+	width: 620px;
+	padding: 10px;
+	margin: auto;
+}
+
+}*/
