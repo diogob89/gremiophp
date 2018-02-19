@@ -97,7 +97,7 @@ button.css3button:active {
 .animacao {
 	position: absolute;
 	top: 0px;
-	left: 606px;
+	right: 0px;
 	height: 200px;
 	width: 575px;
 	background-color: #000;
@@ -355,6 +355,11 @@ footer {
 	margin: auto;
 }
 
+.centroanimacao {
+	width: 100%;
+	margin: auto;
+}
+
 }
 
 /* TABLET */
@@ -442,7 +447,7 @@ button.css3button {
 .animacao {
 	position: absolute;
 	top: 0px;
-	left: 449px;
+	right: 0px;
 	height: 200px;
 	width: 575px;
 	background-color: #000;
@@ -687,6 +692,11 @@ footer {
 .centro {
 	width: 1004px;
 	padding: 10px;
+	margin: auto;
+}
+
+.centroanimacao {
+	width: 100%;
 	margin: auto;
 }
 
