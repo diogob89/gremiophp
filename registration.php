@@ -93,8 +93,8 @@
 <b><h5>PRICE:</h5></b>
 <p style="padding-bottom:20px; padding-top:0px;"><b>1x WEEKLY</b> - $60.00 MONTH + $40.00 TRAINING UNIFORM.<br>
 <b>2x WEEKLY</b> - $100.00 MONTH + $40.00 TRAINING UNIFORM.<br>
-<b>1x WEEKLY 2 MONTHS</b> $100 + $40 TRAINING UNIFORM.<br>
-<b>2x WEEKLY 2 MONTHS</b> $180.00 + $40 TRAINING UNIFORM.<br>
+<b>1x WEEKLY 2 MONTHS</b> $100.00 + $40.00 TRAINING UNIFORM.<br>
+<b>2x WEEKLY 2 MONTHS</b> $180.00 + $40.00 TRAINING UNIFORM.<br>
 </p>
 
 </article>
@@ -103,7 +103,7 @@
 
 <article class= "aregistration">
 
-<img src ="girl gremio.jpg" style="float:left; width:179px; height:274px; padding-right:9px;">
+<img src ="girl-gremio.gif" style="float:left;">
 
 <h3 style="padding-top:15px;"> GIRLS: </h3>
 <p style="padding-bottom:10px;"><b>FRIDAY -</b> 5 TO 8 YEARS  6PM TO 7PM</p>
@@ -111,8 +111,8 @@
 <b><h5>PRICE:</h5></b>
 <p style="padding-bottom:39px; padding-top:0px;"><b>1x WEEKLY</b> - $60.00 MONTH + $40.00 TRAINING UNIFORM.<br>
 <b>2x WEEKLY</b> - $100.00 MONTH + $40.00 TRAINING UNIFORM.<br>
-<b>1x WEEKLY 2 MONTHS</b> $100 + $40 TRAINING UNIFORM.<br>
-<b>2x WEEKLY 2 MONTHS</b> $180.00 + $40 TRAINING UNIFORM.<br>
+<b>1x WEEKLY 2 MONTHS</b> $100.00 + $40.00 TRAINING UNIFORM.<br>
+<b>2x WEEKLY 2 MONTHS</b> $180.00 + $40.00 TRAINING UNIFORM.<br>
 </p>
 
 
