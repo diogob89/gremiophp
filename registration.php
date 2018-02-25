@@ -4,7 +4,7 @@
 <link href="favicon.ico" rel="shortcut icon" type="image/x-icon">
 <meta charset="utf-8">
 <meta name ="keyword" content="gremio, gremio usa, futebol, soccer, clube gremio, gremio estados unidos, escolhinha">
-<meta name ="description" content="Escolhinha de Futebol Oficial do Grêmio USA. Futebol do Grêmio agora em solo americano."> 
+<meta name ="description" content="Escolinha de Futebol Oficial do Grêmio USA. Futebol do Grêmio agora em solo americano."> 
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Grêmio USA - Official Grêmio FBPA Soccer Training in USA </title>
@@ -76,7 +76,7 @@
 	<section class = "centro">
 	
 	
-<h2>SCHEDULE</h2>
+<h2>Schedule</h2>
 
 <div style="clear:both; height:330px;">
 <article class= "aregistration" style="margin-left:15px;">

@@ -40,9 +40,9 @@
 	
 	<section class = "centro">
 
-	<h2 style="font-size:35px; font-family:'Fjalla One', sans-serif;">Location</h2>
+	<h2>Location</h2>
 	<p style="font-size:16px; padding-top:30px; padding-bottom:10px; font-weight:bold; text-align:center;">13 Port Street, Hudson, MA, EUA</p>
-	<div style= "width:600px; height:450px; padding-left:210px; padding-bottom:20px;">
+	<div style= "width:600px; height:450px; padding-left:210px; padding-bottom:31px;">
 	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11787.959296193543!2d-71.58581020565781!3d42.385363260090365!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e3f336625255cb%3A0x703bcb71b1e84073!2s13+Port+St%2C+Hudson%2C+MA+01749%2C+EUA!5e0!3m2!1spt-BR!2sbr!4v1481736897087" width="600" height="450" frameborder="0" style="border:4px solid #00adf1" allowfullscreen></iframe>
 	</div>
 	
