@@ -77,7 +77,7 @@
 	
 	<img src="fotohome.jpg" class="imghome">
 	
-	<div class="bannerOrlando animacao2"></div>
+	<a href="flyer.php"><div class="bannerOrlando animacao2"></div></a>
 
 
 	<!-- <article>
