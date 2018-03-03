@@ -4,7 +4,7 @@
 	</div>	
 	<div class="centro" style="position:relative;">
 	
-		<div id="logo"><a href="home.html"><img src ="logo.jpg" class="tamanhologo" alt="Grêmio logo"></a></div>
+		<div id="logo"><a href="home.php"><img src ="logo.jpg" class="tamanhologo" alt="Grêmio logo"></a></div>
 		<div class ="titulo"><h1> Grêmio USA </h1></div>
 		
 			<div class = "menusocial">

@@ -76,6 +76,8 @@
 	<section class = "centro">
 	
 	<img src="fotohome.jpg" class="imghome">
+	
+	<div class="bannerOrlando animacao2"></div>
 
 
 	<!-- <article>
@@ -96,7 +98,9 @@
 	<h3>About Grêmio FBPA</h3>
 	<p>Gremio Foot-Ball Porto Alegrense (http://www.gremio.net/) is a professional Brazilian soccer club based in Porto Alegre, RS, Brazil, and has millions of fans in Brazil and worldwide. It takes part in the Rio Grande do Sul State Premier League, as well as the Brazil's National First Division League, a top tier of the Brazilian soccer league system. Gremio has won 36 state titles, two South America's Champions League titles, four Brazil's Cup titles, two National First Division League titles, and one World Championship title. We are glad to inform you that Gremio FBPA Youth Soccer School has come to USA, and it is the first youth soccer school in Massachsets  that belongs to a 1st. Division Brazilian Soccer Club.</p>	
 	
+	
 	<div class="fb-page" data-href="https://www.facebook.com/gremiousa" data-width="450px" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="false"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/gremiousa"><a href="https://www.facebook.com/gremiousa">Gremio USA</a></blockquote></div></div>
+	
 	
 	<a class="twitter-timeline" width="450px" href="https://twitter.com/gremio_usa" data-widget-id="663931382079574016">Tweets de @gremio_usa</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
