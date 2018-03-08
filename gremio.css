@@ -360,6 +360,24 @@ footer {
 	margin: auto;
 }
 
+.jR3DCarouselGalleryDefault,
+.jR3DCarouselGalleryCustom {
+  margin: 30px auto 50px auto;
+  
+}
+
+.jR3DCarouselGalleryCustom .captions {
+  position: relative;
+  padding: 5px 0;
+  bottom: 4px;
+  color: white;
+  background: #2eb127;
+  display: block;
+}
+.jR3DCarouselGalleryCustom a{
+	text-decoration: none;			
+}
+
 }
 
 /* TABLET */
@@ -698,6 +716,23 @@ footer {
 .centroanimacao {
 	width: 100%;
 	margin: auto;
+}
+
+.jR3DCarouselGalleryDefault,
+.jR3DCarouselGalleryCustom {
+  margin: 50px auto 50px auto;
+}
+
+.jR3DCarouselGalleryCustom .captions {
+  position: relative;
+  padding: 5px 0;
+  bottom: 4px;
+  color: white;
+  background: #2eb127;
+  display: block;
+}
+.jR3DCarouselGalleryCustom a{
+	text-decoration: none;			
 }
 
 }
