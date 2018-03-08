@@ -134,7 +134,7 @@
     animationInterval: 2000,
     rotationDirection: 'ltr',
     slideClass: 'jR3DCarouselCustomSlide',
-    autoplay: false,
+    autoplay: true,
     onSlideShow: slideShownCallback,
     /* callback when Slide show event occurs */
     navigation: 'circles' /* circles | squares */ ,

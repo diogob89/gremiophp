@@ -1,12 +1,12 @@
 <footer>
-		<div class="centro">
+	<!--	<div class="centro">
 		<p class="pendereco"> Sponsors:</p>
 		<ul>
 		<li><a href="http://www.classicpizza1.com/" target="_blank"><img src="logop1.png" id="logop1"></a></li>
 		<li><a href="http://www.chevrolet.com/" target="_blank"><img src="logop3.jpg" id="logop3"></a></li>
 		<li><a href="http://jumpinwithus.net/" target="_blank"><img src="logop2.png" id="logop2"></a></li>
-		</ul>
-		</div>
+		</ul> 
+		</div> -->
 		
 		<div class="endereco">
 

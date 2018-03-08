@@ -85,16 +85,16 @@
 
 <h3 style="padding-top:15px;"> BOYS: </h3>
 
-<p style="padding-bottom:10px;"><b>MONDAY -</b> 6PM TO 8PM<br>
+<p style="padding-bottom:10px;"><b>THURSDAY -</b> 5PM TO 8PM<br>
  
-<b>THURSDAY -</b> 6PM TO 8PM</p>
+<b>FRIDAY -</b> 5PM TO 8PM</p>
 
 
 <b><h5>PRICE:</h5></b>
 <p style="padding-bottom:20px; padding-top:0px;">
 <!-- <b>1x WEEKLY</b> - $60.00 MONTH + $40.00 TRAINING UNIFORM.<br> -->
 <b>2x WEEKLY</b> - $100.00 MONTH + $40.00 TRAINING UNIFORM.<br><br>
-<b>1x WEEKLY 2 MONTHS</b> $100.00 + $40.00 TRAINING UNIFORM.<br><br>
+<!-- <b>1x WEEKLY 2 MONTHS</b> $100.00 + $40.00 TRAINING UNIFORM.<br><br> -->
 <b>2x WEEKLY 2 MONTHS</b> $180.00 + $40.00 TRAINING UNIFORM.<br><br>
 </p>
 
@@ -107,13 +107,15 @@
 <img src ="girl-gremio.gif" style="float:left;">
 
 <h3 style="padding-top:15px;"> GIRLS: </h3>
-<p style="padding-bottom:10px;"><b>FRIDAY -</b> 5 TO 8 YEARS  6PM TO 7PM</p>
+<p style="padding-bottom:10px;"><b>THURSDAY -</b> 5PM TO 8PM<br>
+ 
+<b>FRIDAY -</b> 5PM TO 8PM</p>
 
 <b><h5>PRICE:</h5></b>
 <p style="padding-bottom:39px; padding-top:0px;">
 <!--<b>1x WEEKLY</b> - $60.00 MONTH + $40.00 TRAINING UNIFORM.<br>-->
 <b>2x WEEKLY</b> - $100.00 MONTH + $40.00 TRAINING UNIFORM.<br><br>
-<b>1x WEEKLY 2 MONTHS</b> $100.00 + $40.00 TRAINING UNIFORM.<br><br>
+<!-- <b>1x WEEKLY 2 MONTHS</b> $100.00 + $40.00 TRAINING UNIFORM.<br><br> -->
 <b>2x WEEKLY 2 MONTHS</b> $180.00 + $40.00 TRAINING UNIFORM.<br><br>
 </p>
 
@@ -155,17 +157,17 @@
 
 
 <!-- U$140,00 -->
-<div class="divpaypal" style="margin-top:50px;">
+<div class="divpaypal" style="margin-top:20px; margin-bottom:40px">
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top" style="padding-left:20px;">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="V2FV83GYPDESY">
 
 
-<table style="padding-top:10px;">
+<table style="padding-top:10px; padding-left:120px">
 <tr style="font-size:22px; font-family:'Fjalla One', sans-serif;">
 <td>
 <input type="hidden" name="on0" value="twice weekly,  4 weeks + unif  U$ 140.00">
-	Once weekly 2 months or twice weekly 1 month + unif U$ 140.00
+	Twice weekly 1 month + unif U$ 140.00
 </td>
 </tr>
 	<tr style="text-align:center;">
@@ -184,7 +186,7 @@
 
 
 <!-- U$220,00 -->
-<div class="divpaypal" style="margin-top:50px; margin-bottom:50px;">
+<div class="divpaypal" style="margin-top:20px; margin-bottom:50px;">
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top" style="padding-left:120px;">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="2SD9DQV2KYVR2">
