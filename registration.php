@@ -91,10 +91,11 @@
 
 
 <b><h5>PRICE:</h5></b>
-<p style="padding-bottom:20px; padding-top:0px;"><b>1x WEEKLY</b> - $60.00 MONTH + $40.00 TRAINING UNIFORM.<br>
-<b>2x WEEKLY</b> - $100.00 MONTH + $40.00 TRAINING UNIFORM.<br>
-<b>1x WEEKLY 2 MONTHS</b> $100.00 + $40.00 TRAINING UNIFORM.<br>
-<b>2x WEEKLY 2 MONTHS</b> $180.00 + $40.00 TRAINING UNIFORM.<br>
+<p style="padding-bottom:20px; padding-top:0px;">
+<!-- <b>1x WEEKLY</b> - $60.00 MONTH + $40.00 TRAINING UNIFORM.<br> -->
+<b>2x WEEKLY</b> - $100.00 MONTH + $40.00 TRAINING UNIFORM.<br><br>
+<b>1x WEEKLY 2 MONTHS</b> $100.00 + $40.00 TRAINING UNIFORM.<br><br>
+<b>2x WEEKLY 2 MONTHS</b> $180.00 + $40.00 TRAINING UNIFORM.<br><br>
 </p>
 
 </article>
@@ -109,10 +110,11 @@
 <p style="padding-bottom:10px;"><b>FRIDAY -</b> 5 TO 8 YEARS  6PM TO 7PM</p>
 
 <b><h5>PRICE:</h5></b>
-<p style="padding-bottom:39px; padding-top:0px;"><b>1x WEEKLY</b> - $60.00 MONTH + $40.00 TRAINING UNIFORM.<br>
-<b>2x WEEKLY</b> - $100.00 MONTH + $40.00 TRAINING UNIFORM.<br>
-<b>1x WEEKLY 2 MONTHS</b> $100.00 + $40.00 TRAINING UNIFORM.<br>
-<b>2x WEEKLY 2 MONTHS</b> $180.00 + $40.00 TRAINING UNIFORM.<br>
+<p style="padding-bottom:39px; padding-top:0px;">
+<!--<b>1x WEEKLY</b> - $60.00 MONTH + $40.00 TRAINING UNIFORM.<br>-->
+<b>2x WEEKLY</b> - $100.00 MONTH + $40.00 TRAINING UNIFORM.<br><br>
+<b>1x WEEKLY 2 MONTHS</b> $100.00 + $40.00 TRAINING UNIFORM.<br><br>
+<b>2x WEEKLY 2 MONTHS</b> $180.00 + $40.00 TRAINING UNIFORM.<br><br>
 </p>
 
 
@@ -123,7 +125,7 @@
 <h2 style="font-size:22px; padding-top:15px;">PAY NOW</h2>
 
 
-<!-- U$100,00 -->
+<!-- U$100,00 --><!--
 <div class="divpaypal">
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top" style="padding-left:130px;">
 <input type="hidden" name="cmd" value="_s-xclick">
@@ -149,7 +151,7 @@
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
-</div>
+</div> -->
 
 
 <!-- U$140,00 -->
