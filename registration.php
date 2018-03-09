@@ -85,9 +85,9 @@
 
 <h3 style="padding-top:15px;"> BOYS: </h3>
 
-<p style="padding-bottom:10px;"><b>THURSDAY -</b> 5PM TO 8PM<br>
+<p style="padding-bottom:10px;"><b>THURSDAY -</b> 6PM TO 8PM<br>
  
-<b>FRIDAY -</b> 5PM TO 8PM</p>
+<b>FRIDAY -</b> 6PM TO 8PM</p>
 
 
 <b><h5>PRICE:</h5></b>
@@ -107,9 +107,9 @@
 <img src ="girl-gremio.gif" style="float:left;">
 
 <h3 style="padding-top:15px;"> GIRLS: </h3>
-<p style="padding-bottom:10px;"><b>THURSDAY -</b> 5PM TO 8PM<br>
+<p style="padding-bottom:10px;"><b>THURSDAY -</b> 6PM TO 8PM<br>
  
-<b>FRIDAY -</b> 5PM TO 8PM</p>
+<b>FRIDAY -</b> 6PM TO 8PM</p>
 
 <b><h5>PRICE:</h5></b>
 <p style="padding-bottom:39px; padding-top:0px;">

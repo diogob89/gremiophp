@@ -132,13 +132,13 @@
     animationCurve: 'ease',
     animationDuration: 1700,
     animationInterval: 2000,
-    rotationDirection: 'ltr',
+    rotationDirection: 'rtl',
     slideClass: 'jR3DCarouselCustomSlide',
     autoplay: true,
     onSlideShow: slideShownCallback,
     /* callback when Slide show event occurs */
     navigation: 'circles' /* circles | squares */ ,
-    perspective: 1200
+    perspective: 3200
   });
   function slideShownCallback($slide) {
     console.log("Slide shown: "+$slide.find('img').attr('src'));
