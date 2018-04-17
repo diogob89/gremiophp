@@ -48,6 +48,40 @@
 </head>
 <body>
 
+<script language = "JavaScript">
+    
+      var images = new Array();
+    
+      function preload() {
+         images[0] = new Image();
+         images[0].src = "fotoheader1.jpg";
+         images[1] = new Image();
+         images[1].src = "fotoheader2.jpg";
+		 images[2] = new Image();
+         images[2].src = "fotoheader3.jpg";
+		 images[3] = new Image();
+         images[3].src = "fotoheader4.jpg";
+		 images[4] = new Image();
+         images[4].src = "fotoheader6.jpg";
+		 images[5] = new Image();
+         images[5].src = "foto1.jpg";
+		 images[6] = new Image();
+         images[6].src = "foto2.jpg";
+		 images[7] = new Image();
+         images[7].src = "foto3.jpg";
+		 images[8] = new Image();
+         images[8].src = "foto4.jpg";
+		 images[9] = new Image();
+         images[9].src = "foto5.jpg";
+		 images[10] = new Image();
+         images[10].src = "torcida-gremio3.jpg";
+      }
+ 
+      preload();
+ 
+   </script>
+
+
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

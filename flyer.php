@@ -84,11 +84,11 @@
 	you to play in full field at the Gillette stadium.
 	To participate in our event you don’t need to pay, just buy tickets to the Revolution game, details below:<br><br><br>
 
-	Teams U8, U10, U12 and father's game: 7x7, 15 PLAYERS. <br>
-	1/3 of the field. One game, 2 x 20 minute (3 tickets per players)<br> 
+	Teams U8, U10, U12 and father's game: 7x7,<br>
+	One game, 30 minute (2 tickets per players)<br> 
 	<br><br>
-	Teams U14, U16: 11x11, 16 players.<br>
-	Whole field. One game 2 x 20 minute (4 tickets per players)<br>
+	Teams U14, U16: 11x11,<br>
+	Whole field. One game 30 minutes (3 tickets per players).<br>
 	<br><br>
 	Men Adult, and over 50, 16 players. <br>
 	One game 2 x 30 minutes (6 tickets per players)<br>
@@ -99,6 +99,7 @@
 	Ps. Father's game and under 12 years old together: 5 tickets. <br>
 	Father's game and over 13 years old together: 6 tickets.<strong></p>
 	</article>
+	
 	
 	<img src="funsoccergeral.jpg" style="width:900px; padding-left:50px;">
 	
